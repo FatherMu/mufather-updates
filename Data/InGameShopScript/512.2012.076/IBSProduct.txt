@@ -786,9 +786,9 @@
 198@Seal of Wealth(Normal)_7Day_Event@Duration@604800@Sec.@0@258@142@145@1@144@673@518@6700@10@140@386
 198@Seal of Wealth(Normal)_7Day_Event@기간제-감가상각기간@365@Day(s)@0@258@142@146@9@144@673@518@6700@37@140@151
 198@Seal of Wealth(Normal)_7Day_Event@기간아이템 유효기간@365@Day(s)@0@258@142@146@9@144@673@518@6700@53@140@151
-199@Scroll of Protection_1Day_Event@Duration@86400@Sec.@0@259@142@145@1@144@673@518@7241@10@140@386
-199@Scroll of Protection_1Day_Event@기간제-감가상각기간@365@Day(s)@0@259@142@146@9@144@673@518@7241@37@140@151
-199@Scroll of Protection_1Day_Event@기간아이템 유효기간@365@Day(s)@0@259@142@146@9@144@673@518@7241@53@140@151
+199@Set Legendary (SM/MG)@Quantity@1@1500@259@142@145@1@144@673@518@7200@74@138@304
+199@Set Legendary (SM/MG)@Quantity@1@1500@259@142@145@1@144@673@518@7200@74@138@304
+199@Set Legendary (SM/MG)@Quantity@1@1500@259@142@145@1@144@673@518@7200@74@138@304
 200@Set Legendary (SM/MG)@Quantity@1@1500@260@142@145@1@144@673@518@7200@74@138@304
 200@Set Legendary (SM/MG)@Quantity@1@1500@260@142@145@1@144@673@518@7200@74@138@304
 200@Set Legendary (SM/MG)@Quantity@1@1500@260@142@145@1@144@673@518@7200@74@138@304
